@@ -1,0 +1,1 @@
+Logging to C:\Users\GRAHAM~1\AppData\Local\Temp\opencvlib.log
